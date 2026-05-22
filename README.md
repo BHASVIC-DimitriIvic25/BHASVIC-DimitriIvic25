@@ -8,6 +8,6 @@
 -  or Personal Email:
 -  Dimitri.l.ivic@gmail.com
 -  My soft skills: I'm good at listening and interpreting what others mean as well as conveying information
--  in a team
+  in a team
 -  Fun fact: I can solve a Rubix cube
 
