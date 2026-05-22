@@ -11,3 +11,8 @@
   in a team
 -  Fun fact: I can solve a Rubix cube
 
+
+# Notable work example portfolio:
+- https://github.com/BHASVIC-DimitriIvic25/J-courses
+- https://github.com/BHASVIC-DimitriIvic25/Java_Bank_Project
+- https://github.com/BHASVIC-CompSci/homework-BHASVIC-DimitriIvic25
