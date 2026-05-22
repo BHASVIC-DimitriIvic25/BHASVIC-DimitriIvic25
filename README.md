@@ -1,16 +1,13 @@
-## Hi there 👋
+# About me
 
-<!--
-**BHASVIC-DimitriIvic25/BHASVIC-DimitriIvic25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-  My name is Dimitri Leo Ivic and I am a student at BHASVIC
+-  I’m currently working on my idea for my computer science course work
+-  My relevent qualifications: GCSE computer science 5
+-  How to reach me:  School Email:
+-  dimitri.ivic25@students.bhasvic.ac.uk
+-  or Personal Email:
+-  Dimitri.l.ivic@gmail.com
+-  My soft skills: I'm good at listening and interpreting what others mean as well as conveying information
+-  in a team
+-  Fun fact: I can solve a Rubix cube
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
